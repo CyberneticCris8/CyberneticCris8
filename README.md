@@ -27,8 +27,3 @@ Computer Science student at Washtenaw Community College, with plans on transferi
 - :paperclip: [My Resume/CV]()
   
 
-<summary>
-
-
-<br >
-
