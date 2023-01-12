@@ -8,8 +8,8 @@ Computer Science undergrad at Washtenaw Community College, with plans on transfe
 
 <!-- TODO: Add last video link -->
 
-- 🔭 Current Project: MovieRex 
-- 🤔 Currently Learning: React, Django
+- 🔭 Current Project: Material Finder
+- 🤔 Currently Learning: Webscraping, Python
 - 📫 How to reach me: crcastro408@gmail.com.
 - 😄 Pronouns: He/Him
 
