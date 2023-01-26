@@ -1,6 +1,6 @@
 ## Hi, I'm Cris <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-Computer Science undergrad at Washtenaw Community College, with plans on transfering to Eastern Michigan University soon. My passion for tech is what keeps me learning!
+Computer Science undergrad at Washtenaw Community College with experience in building and debugging applications. I am passionate about creating products that are not only functional, but also intuitive and user-friendly. My skills include Java, SQL, PHP, and much more. I am always eager to learn and improve my abilities! On my GitHub page, you can find some of my personal projects and contributions to open-source projects. I look forward to connecting with other developers and collaborating on new projects.
 
 :links: Reach out anytime!
 
@@ -14,11 +14,6 @@ Computer Science undergrad at Washtenaw Community College, with plans on transfe
 - 😄 Pronouns: He/Him
 
 
-#### Technologies
-
-<!-- TODO: Make technologies links takes you to repositories -->
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 
 <br />
 <br />
