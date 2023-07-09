@@ -2,7 +2,7 @@
 
 **`Digital Craftsman`**
 
-Computer science professional, driven by a desire to use technology to make a positive impact on the world. I am passionate about utilizing my skills to help others and make a difference and I am always eager to learn more. I believe that technology can be a powerful tool for solving important problems and I am committed to using it for the betterment of humanity. On my GitHub page, you will find my personal projects and that align with my goal to make a difference through technology. I look forward to connecting with like-minded individuals and collaborating on projects that can change the world.
+Inspired Software Developer, driven by a desire to use technology to make a positive impact on the world. Passionate about utilizing my skills to help others and make a difference as I am always eager to learn more. On my GitHub page, you will find my personal projects and that align with my goal to make a difference through technology. I am always looking forward to connecting with like-minded individuals and collaborating on projects that can change the world.
 
 ---
 ### 🧰 Languages and Frameworks
